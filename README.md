@@ -3,9 +3,9 @@
 # execution
 ## docker run -it --name test test:18
 
-#running images
+# running images
 ## docker start test
-##docker exec -it test /bin/zsh
+## docker exec -it test /bin/zsh
 
 
 -- build check & 
